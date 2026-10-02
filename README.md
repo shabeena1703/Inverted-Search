@@ -145,7 +145,7 @@ Inverted-Search/
                      EXIT
 ```
 
-### Main Operations
+**Main Operations**
 
 ```text
 Create Database
