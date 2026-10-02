@@ -385,20 +385,9 @@ ERROR : DATABASE UPDATE IS FAILED
 
 ## 🧪 Result
 
-The **Inverted Search** program successfully creates an inverted database containing:
+Successfully developed an Inverted Search Database in C that indexes words from multiple files and provides direct access to the files containing each word and its occurrence count.
 
-```text
-Word
-  ↓
-File Count
-  ↓
-File Names
-  ↓
-Occurrence Count
-```
-
-It supports database creation, display, word searching, saving, and updating using C data structures and file handling.
-
+The project implements database creation, display, word searching, saving, and updating using Hash Tables, Linked Lists, and file handling.
 ---
 
 ## 👤 Author
